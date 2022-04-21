@@ -1,2 +1,2 @@
-# E-commerce store usinf React, Redux, SCSS, Firebase and more
+# E-commerce store using React, Redux, SCSS, Firebase and more
 
